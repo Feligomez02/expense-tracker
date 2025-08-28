@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de configuración locales
+*.pyc
+__pycache__/
+*.pyo
+
+# SQLite (opcional: si querés ignorar DB local)
+expense_tracker.db
+
+# Carpeta de descargas de PDFs
+backend/downloads/
+
+# Logs
+*.log
+
+# Configs sensibles
+token.json
+credentials.json
+client_secret.json
