@@ -1,12 +1,12 @@
-# Expense Tracker Personal
+# Expense Tracker Personal (EN PROGRESO)
 
 💡 **Dashboard personal de facturas y control de finanzas**
 
-Una web app diseñada para que puedas **visualizar y gestionar todas tus facturas en un solo lugar**.  
+Una web app que va a estar diseñada para que puedas **visualizar y gestionar todas tus facturas en un solo lugar**.  
 
 ---
 
-## 🌟 Qué ofrece
+## 🌟 Qué va a ofrecer
 
 - **Visualización de facturas próximas a vencer**  
   Tené siempre a la vista tus pagos pendientes y su estado (`pendiente` / `pagada`).
@@ -20,7 +20,7 @@ Una web app diseñada para que puedas **visualizar y gestionar todas tus factura
 
 ---
 
-## 🚀 Futuro
+## 🚀 Futuras Funcionalidades Adicionales
 
 - Integración con gateways de pago para **marcar facturas como pagadas automáticamente**.  
 - Parser modular por proveedor para una extracción de datos más precisa.  
